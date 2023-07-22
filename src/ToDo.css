@@ -1,0 +1,37 @@
+.App {
+    text-align: center;
+  }
+  
+  .input-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  
+  .todo-list-container {
+    display: flex;
+    justify-content: center;
+    margin-right: 500px;
+    font-size: larger;
+  }
+  
+  
+  input{
+    font-size: 20px;
+    height: 70px;
+    width: 500px;
+    color: black;
+    font-weight: 800;
+    border-radius: 10px;
+    border: 2px solid black;
+
+  }
+  
+  button{
+    
+    background-color: rgb(155, 106, 29);
+    color: black;
+    border-radius: 10px;
+
+  }

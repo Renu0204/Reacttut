@@ -1,10 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
-import Hello from './hello';
+
+import ToDo from './ToDo.js'
+
 function App() {
   return (
-    <Hello/>
-  )
+    <ToDo/>
+  );
 }
     
 export default App;
