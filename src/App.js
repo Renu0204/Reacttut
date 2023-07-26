@@ -1,9 +1,9 @@
 
-import ToDo from './ToDo.js'
+import User from './user.js'
 
 function App() {
   return (
-    <ToDo/>
+    <User/>
   );
 }
     
